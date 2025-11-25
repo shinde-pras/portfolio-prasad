@@ -104,7 +104,7 @@ const About = () => {
                 className="bg-blue-50 border-l-4 border-primary p-5 rounded-md shadow-sm"
               >
                 <p className="text-gray-800 font-semibold text-lg">
-                  🚀 <span className="text-primary font-bold">Currently seeking</span> Summer/Fall/Spring <strong>Internship / Co-Op</strong> opportunities to solve real User Problems and deliver impactful solutions.
+                  🚀 <span className="text-primary font-bold">Currently seeking</span> Spring 2026<strong>Internship / Co-Op</strong> opportunities to solve real User Problems and deliver impactful solutions.
                 </p>
               </motion.div>
             </div>
